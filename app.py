@@ -581,12 +581,12 @@ def climate_quiz():
     return generate_quiz("Climate Change")
 
 
-@app.route('/Social', methods=['GET'])
+@app.route('/social', methods=['GET'])
 def social_quiz():
     return generate_quiz("Social displacement")
 
 
-@app.route('/EWE', methods=['GET'])
+@app.route('/ewe', methods=['GET'])
 def ewe_quiz():
     return generate_quiz("Extreme Weather")
 
@@ -601,7 +601,7 @@ def air_quiz():
     return generate_quiz("Air Pollution")
 
 
-@app.route('/EcoEffect', methods=['GET'])
+@app.route('/ecoeffect', methods=['GET'])
 def eco_quiz():
     return generate_quiz("Economic effects")
 
