@@ -1,6 +1,5 @@
 from flask import Flask, render_template, redirect, request, jsonify, session
 from flask_sqlalchemy import SQLAlchemy
-import flask_cors
 import re
 import random
 import json
