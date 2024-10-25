@@ -1,0 +1,23 @@
+{
+    "liveServer.settings.port": 5501,
+    "python.autoComplete.extraPaths": [
+        "/home/joe/ros2_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/joe/ros2_ws/install/servo_msgs/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/payload_service/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/joe/ros2_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/joe/ros2_ws/install/servo_msgs/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/payload_service/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/joe/ros2_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
